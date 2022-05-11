@@ -1,4 +1,4 @@
-👋 Hi, I’m @muscak
+👋 Hi, I’m Mustafa
 - I’m interested in data science.
 - I’m currently learning statistics, machine learning and pyhton. 👀
 - I’m looking to collaborate on machine learning.
