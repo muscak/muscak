@@ -3,7 +3,7 @@
 - I’m currently learning statistics, machine learning and pyhton. 👀
 - I’m looking to collaborate on machine learning.
 
-R. A. Fisher's maxim: 'Let the data speak for themselves! ' 📈 #datascience
+R. A. Fisher's maxim: 'Let the data speak for themselves! ' 📈::telescope:: #datascience
 
 <!---
 muscak/muscak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
