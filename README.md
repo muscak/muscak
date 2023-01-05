@@ -1,3 +1,5 @@
+✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
+
 # 💫 About Me:
 👋 Hi, I’m Mustafa
 - I’m interested in data science.
@@ -12,7 +14,7 @@
 - [Data Preparation for Machine Learning](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
 <br/><br/><br/>
 
-✍️ R. A. Fisher's maxim: 'Let the data speak for themselves! ' :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
+✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
 
 <!---
 muscak/muscak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
