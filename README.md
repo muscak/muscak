@@ -11,8 +11,8 @@
 
 ✍️ R. A. Fisher's maxim: 'Let the data speak for themselves! ' :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
 
-### 📚 Books I’ve read
-==================================
+# 📚 Books I’ve read
+
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/)
 - [Data Preparation for Machine Learning](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
 
