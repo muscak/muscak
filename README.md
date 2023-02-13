@@ -12,6 +12,7 @@
 # 📚 Books I’ve read
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/)
 - [Data Preparation for Machine Learning](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
+- [Machine Learning for Humans](https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf)
 <br/><br/><br/>
 
 ✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
