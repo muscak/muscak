@@ -11,8 +11,10 @@
 <br/><br/><br/>
 # 📚 Books I’ve read
 - [Machine Learning for Humans](https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf)
+- [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/)
 - [Data Preparation for Machine Learning](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
+- [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 
 <br/><br/><br/>
 
