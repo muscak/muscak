@@ -14,6 +14,10 @@
 - [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/)
 - [Data Preparation for Machine Learning](https://machinelearningmastery.com/data-preparation-for-machine-learning/)
 - [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+<br/><br/><br/>
+
+# ⛳️ Courses I've completed
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/_
 
 <br/><br/><br/>
 
