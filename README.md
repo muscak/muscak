@@ -17,7 +17,7 @@
 <br/><br/><br/>
 
 # ⛳️ Courses I've completed
-- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/_
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 
 <br/><br/><br/>
 
