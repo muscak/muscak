@@ -18,6 +18,7 @@
 
 # ⛳️ Courses I've completed
 - [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+- [Applied Data Science Program - MIT  Professional Education](https://professional-education-gl.mit.edu/mit-online-data-science-program)
 
 <br/><br/><br/>
 
