@@ -1,6 +1,6 @@
 ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
 
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Mustafa
 - I’m interested in data science.
 - I’m looking to collaborate on machine learning.
@@ -20,7 +20,7 @@
 - [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 - [Applied Data Science Program - MIT  Professional Education](https://professional-education-gl.mit.edu/mit-online-data-science-program)
 
-<br/><br/><br/>
+<br/><br/>
 
 ✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
 
