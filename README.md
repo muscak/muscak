@@ -1,7 +1,7 @@
-✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
+> ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
 
-# About Me:
-👋 Hi, I’m Mustafa
+# Hi, I’m Mustafa 👋
+
 - I’m interested in data science.
 - I’m looking to collaborate on machine learning.
 <br/><br/><br/>
