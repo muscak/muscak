@@ -10,9 +10,9 @@ I'm a self-taught data scientist who found his passion for data science during m
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br/><br/>
 
-> ✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
+> #### ✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
 
-<br/><br/>
+<br/>
 
 # 📚 Books I’ve read
 - [Machine Learning for Humans](https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf)
