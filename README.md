@@ -1,6 +1,6 @@
 # Hi, I’m Mustafa 👋
 I'm a self-taught data scientist who found his passion for data science during my PhD thesis. I’m looking to collaborate on machine learning.
-<br/>
+<br/><br/>
 > ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
 <br/><br/>
 
@@ -22,7 +22,7 @@ I'm a self-taught data scientist who found his passion for data science during m
 
 <br/><br/>
 
-✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
+> ✍️ R. A. Fisher's maxim: *"Let the data speak for themselves!"* :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: **#datascience**
 
 <!---
 muscak/muscak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
