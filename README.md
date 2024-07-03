@@ -1,13 +1,13 @@
-> ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
-
 # Hi, I’m Mustafa 👋
+I'm a self-taught data scientist who found his passion for data science during my PhD thesis. I’m looking to collaborate on machine learning.
+<br/>
+> ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
+<br/><br/>
 
-- I’m interested in data science.
-- I’m looking to collaborate on machine learning.
-<br/><br/><br/>
 # 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 <br/><br/><br/>
+
 # 📚 Books I’ve read
 - [Machine Learning for Humans](https://everythingcomputerscience.com/books/Machine%20Learning%20for%20Humans.pdf)
 - [Master Machine Learning Algorithms](https://machinelearningmastery.com/master-machine-learning-algorithms/)
