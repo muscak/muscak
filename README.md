@@ -1,7 +1,7 @@
 # Hi, I’m Mustafa 👋
 I'm a self-taught data scientist who found his passion for data science during my PhD thesis. I’m looking to collaborate on machine learning.
 <br/><br/>
-> ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
+> ### ✍️ *“Data is the new oil.”* Clive Humby, British mathematician, 2006
 <br/><br/>
 
 # 💻 Tech Stack:
